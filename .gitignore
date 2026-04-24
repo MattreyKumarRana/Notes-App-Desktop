@@ -1,0 +1,31 @@
+# Python
+
+backend/venv/
+backend/.fastapi/
+backend/**pycache**/
+*.pyc
+
+# Database
+
+backend/*.db
+
+# Node
+
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# Env
+
+.env
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+
+# Database
+*.db
